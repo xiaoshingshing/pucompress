@@ -1,2 +1,2 @@
 # pucompress
-poster
+poster of 'PU compression on the cloud'
